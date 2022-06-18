@@ -1,5 +1,5 @@
-senderemail = 'akasherugurala05@gmail.com'
-epwd = 'Donthackme@404'
-to = 'akasherugurala5@gmail.com'
+senderemail = 'yourmail@gmail.com'
+epwd = 'your-password'
+to = '@gmail.com'
 
 
